@@ -1,0 +1,99 @@
+﻿@model PagedList.IPagedList<Restoraneo.ViewModels.ReservationViewModel>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+    var reservationStatus = "";
+    var reservationStatusTextClass = "";
+   int i = 0;
+   var rowNumber = 0;
+}
+
+<div class="panel panel-default panelReservations" style="margin-top:-15px;">
+    <!-- Default panel contents -->
+    <div class="panel-heading"><h4><b>Pregled rezervacija @ViewBag.RestaurantName</b><br /></h4>
+    <div>
+        @using (Html.BeginForm())
+            {
+                <p>
+                    Pronađi po korisniku: @Html.TextBox("query", ViewBag.CurrentFilter as string)
+                    <input class="btn btn-default btnRestoraneo" type="submit" value="Pronađi" />
+                </p>
+            }
+    </div>
+    </div>
+    <div class="table-responsive">
+        <!-- Table -->
+        <table class="table">
+            <thead>
+                <tr class="reservationPreviewHeader">
+                    <th>#</th>
+                    <th>Broj osoba</th>
+                    <th>@Html.ActionLink("Datum", "Index", new { sortOrder = ViewBag.DateSortParm, currentFilter = ViewBag.CurrentFilter })
+                    <span class="glyphicon glyphicon-sort"></span></th>
+                    <th>Vrijeme</th>
+                    <th>Korisnik</th>
+                    <th>Broj mobitela</th>
+                    <th>Status rezervacije</th>
+                    <th>Promjena statusa rezervacije</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Count > 0 && Model != null)
+                {
+                    foreach (var reservation in Model)
+                    {
+					//i++;
+                        <tr>
+                            <td>@{
+							if(Model.PageNumber == 1)
+							{
+								i++;
+								rowNumber = i;
+							}
+							else {		
+							i++;							
+							rowNumber =((Model.PageNumber - 1) * 10) + i;
+							}
+							}@rowNumber. </td>
+                            <td>@reservation.NumberOfPersons</td>
+                            <td>@reservation.DateOfReservation</td>
+                            <td>@reservation.TimeOfReservation</td>
+                            <td>@reservation.Username</td>
+                            <td>@reservation.UserMobilePhone</td>
+                            <td>
+                                @if (reservation.ReservationStatus == 0)
+                                {
+                                    reservationStatus = "Potvrđena";
+                                    reservationStatusTextClass = "text-success";
+                                }
+                                else if (reservation.ReservationStatus == 1)
+                                {
+                                    reservationStatus = "Iskorištena";
+                                    reservationStatusTextClass = "";
+                                }
+                                else if (reservation.ReservationStatus == 2)
+                                {
+                                    reservationStatus = "Otkazana";
+                                    reservationStatusTextClass = "text-danger";
+                                }
+                                <p id="@reservation.ReservationId" class="@reservationStatusTextClass" style="font-weight:600">@reservationStatus</p>
+                            </td>
+                            <td><button id="@reservation.ReservationId" data-reservationStatusId="0" class="btn btn-default btn-success js-btn-reservationStatus">Potvrđena</button><button id="@reservation.ReservationId" data-reservationStatusId="1" class="btn btn-default btnChangingReservationStatus js-btn-reservationStatus">Iskorištena</button><button id="@reservation.ReservationId" data-reservationStatusId="2" class="btn btn-default btn-danger btnChangingReservationStatus js-btn-reservationStatus">Otkazana</button></td>
+                        </tr>
+
+                    }
+                }
+            </tbody>
+        </table>
+        <br />
+        <div class="paginationPageNumber">Stranica @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) od @Model.PageCount
+
+        @Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+		</div>
+    </div>
+</div>
+
+

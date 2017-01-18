@@ -1,0 +1,206 @@
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\csc.exe
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\vbc.exe
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\Restoraneo.dll.config
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\Restoraneo.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\Restoraneo.pdb
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.InitialModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingReservationAndRestaurantModels.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.MakingOneToManyRelationshipUserRestaurant.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangeReservationStatusFieldFromBoolToString.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangeFieldReservationStatusFromStringToInt.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingModelReservationNotification.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.MovingDateTimeToOneField.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.csproj.GenerateResource.Cache
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.pdb
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.csprojResolveAssemblyReference.cache
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.csprojResolveAssemblyReference.cache
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.InitialModel.resources
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingReservationAndRestaurantModels.resources
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.MakingOneToManyRelationshipUserRestaurant.resources
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangeReservationStatusFieldFromBoolToString.resources
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangeFieldReservationStatusFromStringToInt.resources
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingModelReservationNotification.resources
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.MovingDateTimeToOneField.resources
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.csproj.GenerateResource.Cache
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.dll
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.pdb
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\csc.exe
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\vbc.exe
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\VBCSCompiler.exe
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\Restoraneo.dll.config
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\Restoraneo.dll
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\Restoraneo.pdb
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddResaturantInfoAndRestaurantDishModel.resources
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ReorganizeColumnOrderRestaurantInfo.resources
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ReorganizeColumnOrderRestaurantInfoAgain.resources
+C:\Users\slaven.radja\Documents\Visual Studio 2015\Projects\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.RemoveTelephoneFieldFromRestaurantInfoModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\roslyn\csc.exe
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\roslyn\vbc.exe
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\Restoraneo.dll.config
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\Restoraneo.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\Restoraneo.pdb
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.InitialModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingReservationAndRestaurantModels.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.MakingOneToManyRelationshipUserRestaurant.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangeReservationStatusFieldFromBoolToString.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangeFieldReservationStatusFromStringToInt.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingModelReservationNotification.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.MovingDateTimeToOneField.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddResaturantInfoAndRestaurantDishModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ReorganizeColumnOrderRestaurantInfo.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ReorganizeColumnOrderRestaurantInfoAgain.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.RemoveTelephoneFieldFromRestaurantInfoModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.csproj.GenerateResource.Cache
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.pdb
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.csprojResolveAssemblyReference.cache
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingReservationClaimModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangingFieldClientIdReservationClaimModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v3 - Napravljen mvc za detalje restorana\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangingFieldRestaurantIdReservationClaimModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\csc.exe
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\vbc.exe
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\Restoraneo.dll.config
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\Restoraneo.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\Restoraneo.pdb
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.csprojResolveAssemblyReference.cache
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.InitialModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingReservationAndRestaurantModels.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.MakingOneToManyRelationshipUserRestaurant.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangeReservationStatusFieldFromBoolToString.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangeFieldReservationStatusFromStringToInt.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingModelReservationNotification.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.MovingDateTimeToOneField.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddResaturantInfoAndRestaurantDishModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ReorganizeColumnOrderRestaurantInfo.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ReorganizeColumnOrderRestaurantInfoAgain.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.RemoveTelephoneFieldFromRestaurantInfoModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingReservationClaimModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangingFieldClientIdReservationClaimModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangingFieldRestaurantIdReservationClaimModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.csproj.GenerateResource.Cache
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.dll
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.pdb
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.RestaurantInfoModelRefactor.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.DeletingWrongRestaurantInfoModel.resources
+C:\Users\Slaven\Documents\Visual Studio 2015\Projects\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingRestaurantInfoModel.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\csc.exe
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\vbc.exe
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\VBCSCompiler.exe
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\Restoraneo.dll.config
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\Restoraneo.dll
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\Restoraneo.pdb
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.csprojResolveAssemblyReference.cache
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.InitialModel.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingReservationAndRestaurantModels.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.MakingOneToManyRelationshipUserRestaurant.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangeReservationStatusFieldFromBoolToString.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangeFieldReservationStatusFromStringToInt.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingModelReservationNotification.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.MovingDateTimeToOneField.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddResaturantInfoAndRestaurantDishModel.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ReorganizeColumnOrderRestaurantInfo.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ReorganizeColumnOrderRestaurantInfoAgain.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.RemoveTelephoneFieldFromRestaurantInfoModel.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingReservationClaimModel.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangingFieldClientIdReservationClaimModel.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangingFieldRestaurantIdReservationClaimModel.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.RestaurantInfoModelRefactor.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.DeletingWrongRestaurantInfoModel.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingRestaurantInfoModel.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.csproj.GenerateResource.Cache
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.dll
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.pdb
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.removingRestaurantInfoModel.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingPluralize.resources
+C:\Users\slaven.radja\Desktop\Restoraneo\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingRestaurantInfosTable.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\csc.exe
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\vbc.exe
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\Restoraneo.dll.config
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\Restoraneo.dll
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\bin\Restoraneo.pdb
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.InitialModel.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingReservationAndRestaurantModels.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.MakingOneToManyRelationshipUserRestaurant.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangeReservationStatusFieldFromBoolToString.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangeFieldReservationStatusFromStringToInt.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingModelReservationNotification.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.MovingDateTimeToOneField.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddResaturantInfoAndRestaurantDishModel.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ReorganizeColumnOrderRestaurantInfo.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ReorganizeColumnOrderRestaurantInfoAgain.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.RemoveTelephoneFieldFromRestaurantInfoModel.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingReservationClaimModel.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangingFieldClientIdReservationClaimModel.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.ChangingFieldRestaurantIdReservationClaimModel.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.RestaurantInfoModelRefactor.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.DeletingWrongRestaurantInfoModel.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingRestaurantInfoModel.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.removingRestaurantInfoModel.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingPluralize.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.Migrations.AddingRestaurantInfosTable.resources
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.csproj.GenerateResource.Cache
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.dll
+C:\Users\Slaven\Desktop\Restoraneo v4 - Finalna verzija za diplomski\Restoraneo\Restoraneo\obj\Debug\Restoraneo.pdb

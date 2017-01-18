@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html style="margin:0; padding:0;">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+   
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="@Url.Action("Index", "DashboardHome")">Restoraneo</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                @Html.Partial("_LoginPartialDashboard")
+            </div>
+        </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+ 
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/signalr")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

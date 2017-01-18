@@ -1,0 +1,156 @@
+﻿@model Restoraneo.ViewModels.RestaurantDetailsViewModel
+@{
+    ViewBag.Title = "Restoraneo";
+    var countDishesRows = Math.Ceiling((double)Model.Dishes.Count() / 2);
+    var numToSkip = 0;
+}
+
+<div class="jumbotron">
+    <div class="container text-center">
+        <form class="form-inline" role="form" id="reservationForm">
+            <div class="form-group">
+                <select class="form-control" id="selPersons">
+                    <option value="2">2 osobe</option>
+                    <option value="3">3 osobe</option>
+                    <option value="4">4 osobe</option>
+                    <option value="5">5 osoba</option>
+					<option value="6">6 osoba</option>
+					<option value="7">7 osoba</option>
+                    <option value="8">8 osoba</option>
+                    <option value="9">9 osoba</option>
+                    <option value="10">10 osoba</option>
+					<option value="11">11 osoba</option>
+					 <option value="12">12 osoba</option>
+                    <option value="13">13 osoba</option>
+                    <option value="14">14 osoba</option>
+                    <option value="15">15 osoba</option>
+					<option value="16">16 osoba</option>
+					 <option value="17">17 osoba</option>
+                    <option value="18">18 osoba</option>
+                    <option value="19">19 osoba</option>
+					<option value="20">20 osoba</option>
+					<option value="više">Više...</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input id="date" type="date" class="form-control">
+            </div>
+            <div class="form-group">
+                <div class="form-group">
+                    <select class="form-control" id="selTime">
+                        <option value="12:00">12:00</option>
+                        <option value="12:30">12:30</option>
+                        <option value="13:00">13:00</option>
+                        <option value="13:30">13:30</option>
+                        <option value="14:00">14:00</option>
+                    </select>
+                </div>
+            </div>
+
+            @Html.DropDownListFor(i => i.RestaurantId, (IEnumerable<SelectListItem>)ViewBag.restaurantsDetails, new { @class = "form-control", @id = "selRestaurant" })
+
+            <button type="submit" class="btn btn-default btnRestoraneo"><b>Rezerviraj</b></button>
+        </form>
+
+        <span class="glyphicon glyphicon-star-empty spanJumbotronStar"></span>
+        <p class="textJumbotron">Besplatna rezervacija u 5 koraka...</p>
+    </div>
+</div>
+
+
+<div class="panel panel-info">
+
+    <div class="panel-heading">@Model.Name</div>
+    <table style="width:100%">
+        <tr>
+            <td class="kitchenType">Tip kuhinje: @Model.RestaurantInfo.KitchenType</td>
+            <td class="hoursOfWorkAddress">Sati rada: @Model.RestaurantInfo.HoursOfWork</td>
+            <td class="hoursOfWorkAddress">Adresa: @Model.RestaurantInfo.Address</td>
+        </tr>
+        <tr>
+            <td class="telephoneNumber">Broj telefona: @Model.RestaurantInfo.Telephone</td>
+            <td class="paymentType">Način plaćanja: @Model.RestaurantInfo.PaymentType</td>
+        </tr>
+    </table>
+</div>
+
+<div class="container-fluid bg-3 text-center">
+    <div class="row">
+        <div class="col-sm-3">
+            <a href="~/img/cevapi.jpg" data-lightbox="dishesSet"><img src="~/img/cevapi.jpg" class="img-responsive imgMainPage" alt=""></a> 
+        </div>
+        <div class="col-sm-3">
+            <a href="~/img/sis-cevapi.jpg" data-lightbox="dishesSet"><img src="~/img/sis-cevapi.jpg" class="img-responsive imgMainPage" alt=""></a>
+        </div>
+        <div class="col-sm-3">
+            <a href="~/img/piletina-s-limunom.jpg" data-lightbox="dishesSet"><img src="~/img/piletina-s-limunom.jpg" class="img-responsive imgMainPage" alt=""></a> 
+        </div>
+        <div class="col-sm-3">
+            <a href="~/img/punjena-pljeskavica.jpg" data-lightbox="dishesSet"><img src="~/img/punjena-pljeskavica.jpg"  class="img-responsive imgMainPage" alt=""></a>
+        </div>
+    </div>
+</div>
+
+    <div class="restaurantDetailsMap container-fluid" id="map"></div>
+
+<script>
+    function initMap() {
+        var myLatLng = new google.maps.LatLng(@Model.Lat, @Model.Long);
+        var mapDiv = document.getElementById('map');
+        var map = new google.maps.Map(mapDiv,
+        {
+            center: myLatLng,
+            zoom: 15
+        });
+
+        var marker = new google.maps.Marker({
+            position: myLatLng,
+            map: map,
+            title: '@Model.Name',
+
+        });
+    }
+</script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDyFBjGRiUHSueHrREGmzXRkAhkVkpAJ6I&callback=initMap"
+        type="text/javascript"></script>
+
+
+        <div class="restaurantMenu panel panel-warning">
+            
+            <div class="panel-heading">Jelovnik</div>
+            <div class="table-responsive">
+                <table class="table">
+                    <tbody>
+                        @for (int i = 0; i < countDishesRows; i++)
+                        {
+                            <tr>
+                                @if (numToSkip <= Model.Dishes.Count())
+                                {
+                                    var dishes = Model.Dishes.Skip(numToSkip).Take(2);
+
+                                    foreach (var dish in dishes)
+                                    {
+                                        <td>
+                                            @dish.Name
+                                            <p class="dishDescription">
+                                                *@dish.Description
+                                            </p>
+                                        </td>
+                                        <td>
+                                            @dish.Price kn
+                                        </td>
+                                        numToSkip++;
+                                    }
+                                }
+                              
+                            </tr>
+                               }
+                    </tbody>
+                    </table>
+                </div>
+         </div>
+
+
+
+
+

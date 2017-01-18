@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="bfbf6048a028492ab942725f31fb5563" Name="Diagram1">
+        <EntityTypeShape EntityType="Model2.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model2.AspNetRoles" Width="1.5" PointX="0.5" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model2.AspNetUserClaims" Width="1.75" PointX="5.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model2.AspNetUserLogins" Width="1.625" PointX="5.25" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model2.AspNetUsers" Width="2" PointX="2.75" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model2.ReservationClaims" Width="1.625" PointX="9.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model2.Reservations" Width="1.875" PointX="7.375" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model2.RestaurantDishes" Width="1.625" PointX="7.875" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model2.RestaurantInfos" Width="1.5" PointX="10.375" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model2.Restaurants" Width="1.75" PointX="0.5" PointY="5.25" IsExpanded="true" />
+        <AssociationConnector Association="Model2.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="Model2.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="Model2.FK_dbo_AspNetUsers_dbo_Restaurants_Restaurant_RestaurantId" ManuallyRouted="false" />
+        <AssociationConnector Association="Model2.FK_dbo_Reservations_dbo_AspNetUsers_ApplicationUser_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="Model2.FK_dbo_Reservations_dbo_Restaurants_RestaurantId" ManuallyRouted="false" />
+        <AssociationConnector Association="Model2.FK_dbo_RestaurantDishes_dbo_Restaurants_RestaurantId" ManuallyRouted="false" />
+        <AssociationConnector Association="Model2.FK_dbo_RestaurantInfos_dbo_Restaurants_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="Model2.AspNetUserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
